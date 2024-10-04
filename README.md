@@ -5,7 +5,7 @@ Software Engineer & Entrepreneur
 --------------------------------
 
 *   🌍  Remote in Spain
-*   🚀  I'm currently working as a freelance developer/architect/manager as well as personal businesses
+*   🚀  I'm currently working as a freelance developer/architect/manager as well as running some personal businesses
 *   🧠  I'm learning AI
 *   ⚡  In my personal life i'm a father and an amateur hybrid athlete (triathlons, marathons and strength training)
 
