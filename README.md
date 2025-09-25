@@ -2,18 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 Software Engineer & Entrepreneur
---------------------------------
-
-*   🌍  Remote in Spain
-*   🚀  I'm currently working as a freelance developer/architect/manager as well as running some personal businesses
-*   🧠  I'm learning AI
-*   ⚡  In my personal life i'm a father and an amateur hybrid athlete (triathlons, marathons and strength training)
 
 
 <a href="https://www.github.com/dciccale" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/dciccale?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-## 🚀 Statistiques GitHub
+## 🚀 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dciccale&show_icons=true&theme=react" alt="GitHub Stats" />
