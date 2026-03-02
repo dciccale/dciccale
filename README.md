@@ -31,8 +31,8 @@ Software Engineer & Entrepreneur
 ## 🚀 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dciccale&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dciccale&layout=compact&theme=react" alt="Top Langages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dciccale&theme=github_dark" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dciccale&theme=github_dark" alt="Top Languages" />
 </p>
 
 ### Skills 
