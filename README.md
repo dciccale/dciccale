@@ -7,6 +7,27 @@ Software Engineer & Entrepreneur
 <a href="https://www.github.com/dciccale" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/dciccale?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+## 🧪 Projects
+
+- 🎓 [Estulio](https://www.estulio.com)
+  AI study platform that transforms PDFs into quizzes, flashcards, summaries, with an AI tutor chat.
+- 💪 [CLIPIN AI Coach](https://www.clipin.fit/app-ia)
+  Mobile AI fitness coach with chat, tools, and personalized training follow-ups.
+- 🏋️ [CLIPIN](https://www.clipin.fit)
+  Fitness ecosystem and Spanish-speaking community helping people train smarter.
+- ⚡ [Pre-Workout Gel](https://www.preworkoutgel.com)
+  Fitness supplement to boost your high intensity workouts.
+- 🛍️ [gdon.ai](https://gdon.ai)
+  Chrome extension using multi-LLM workflows to analyze deals and find better alternatives.
+- 📚 [Embota](https://github.com/dciccale/embota)
+  Multi-agent publishing house that creates illustrated children stories from one prompt.
+- 📊 [NxtCFO](https://github.com/dciccale/finchat)
+  AI financial advisor that reads Google Sheets and returns actionable business insights.
+- 📰 [FeedTwin](https://feedtwin.com)
+  Generate and plan content for your instagram feed
+- 🤖 [inferpipe.ai](https://github.com/dciccale/inferpipe)
+  Open-source platform to turn LLM visual workflows into production API endpoints.
+
 ## 🚀 GitHub Stats
 
 <p align="center">
