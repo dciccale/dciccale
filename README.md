@@ -10,7 +10,7 @@ Software Engineer & Entrepreneur
 ## 🧪 Projects
 
 - 🎓 [Estulio](https://www.estulio.com)
-  AI study platform that transforms PDFs into quizzes, flashcards, summaries, with an AI tutor chat.
+  🇪🇸 AI study platform that transforms PDFs into quizzes, flashcards, summaries, with an AI tutor chat.
 - 💪 [CLIPIN AI Coach](https://www.clipin.fit/app-ia)
   Mobile AI fitness coach with chat, tools, and personalized training follow-ups.
 - 🏋️ [CLIPIN](https://www.clipin.fit)
@@ -25,6 +25,8 @@ Software Engineer & Entrepreneur
   AI financial advisor that reads Google Sheets and returns actionable business insights.
 - 📰 [FeedTwin](https://feedtwin.com)
   Generate and plan content for your instagram feed
+- 🎓 [Turbotemplate](https://turborepo.dev)
+  A full‑stack turborepo monorepo template (typescript, nextjs 16, convex, clerk, shadcn, tailwind)
 - 🤖 [inferpipe.ai](https://github.com/dciccale/inferpipe)
   Open-source platform to turn LLM visual workflows into production API endpoints.
 
