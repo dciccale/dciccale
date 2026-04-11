@@ -25,7 +25,7 @@ Software Engineer & Entrepreneur
   AI financial advisor that reads Google Sheets and returns actionable business insights.
 - 📰 [FeedTwin](https://feedtwin.com)
   Generate and plan content for your instagram feed
-- 🎓 [Turbotemplate](https://turborepo.dev)
+- 🎓 [Turbotemplate](https://turbotemplate.dev)
   A full‑stack turborepo monorepo template (typescript, nextjs 16, convex, clerk, shadcn, tailwind)
 - 🤖 [inferpipe.ai](https://github.com/dciccale/inferpipe)
   Open-source platform to turn LLM visual workflows into production API endpoints.
