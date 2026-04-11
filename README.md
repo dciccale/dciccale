@@ -12,13 +12,13 @@ Software Engineer & Entrepreneur
 - 🎓 [Estulio](https://www.estulio.com)
   🇪🇸 AI study platform that transforms PDFs into quizzes, flashcards, summaries, with an AI tutor chat.
 - 💪 [CLIPIN AI Coach](https://www.clipin.fit/app-ia)
-  Mobile AI fitness coach with chat, tools, and personalized training follow-ups.
+  Mobile AI fitness coach with chat, routines, readiness tracker, tools, and personalized training follow-ups.
 - 🏋️ [CLIPIN](https://www.clipin.fit)
-  Fitness ecosystem and Spanish-speaking community helping people train smarter.
+  Fitness ecosystem and Spanish-speaking discord community helping people on their journey of becoming healthier.
 - ⚡ [Pre-Workout Gel](https://www.preworkoutgel.com)
-  Fitness supplement to boost your high intensity workouts.
+  Fitness supplement to boost your performance during high intensity workouts.
 - 🛍️ [gdon.ai](https://gdon.ai)
-  Chrome extension using multi-LLM workflows to analyze deals and find better alternatives.
+  Chrome extension using agentic workflows to analyze deals and find better alternatives.
 - 📚 [Embota](https://github.com/dciccale/embota)
   Multi-agent publishing house that creates illustrated children stories from one prompt.
 - 📊 [NxtCFO](https://github.com/dciccale/finchat)
