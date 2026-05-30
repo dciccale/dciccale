@@ -10,7 +10,7 @@ Software Engineer & Entrepreneur
 ## 🧪 Projects
 
 - 🎓 [Estulio](https://www.estulio.com)
-  🇪🇸 AI study platform that transforms PDFs into quizzes, flashcards, summaries, with an AI tutor chat.
+  🇪🇸 AI study platform that transforms PDFs into quizzes, flashcards, summaries, infographics and more, plus an AI tutor that can quote your sources.
 - 💪 [CLIPIN AI Coach](https://www.clipin.fit/app-ia)
   Mobile AI fitness coach with chat, routines, readiness tracker, tools, and personalized training follow-ups.
 - 🏋️ [CLIPIN](https://www.clipin.fit)
